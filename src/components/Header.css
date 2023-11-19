@@ -1,0 +1,64 @@
+/*!* Header.css *!*/
+/*.header {*/
+/*    background-color: #f8f9fa; !* Slightly gray background color for the header *!*/
+/*    padding: 10px; !* Adjust padding as needed *!*/
+/*    border-bottom: 1px solid #dee2e6; !* Border color for the header *!*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: space-between;*/
+/*}*/
+
+.logo {
+    width: 100px; /* Adjust the width of the logo as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/*.logo-text {*/
+/*    margin-left: 10px; !* Add margin between the logo and text *!*/
+/*    font-size: 20px; !* Adjust the font size of the logo text *!*/
+/*}*/
+
+/*.nav {*/
+/*    display: flex;*/
+/*    gap: 20px; !* Add spacing between navigation links *!*/
+/*}*/
+
+/*.nav a {*/
+/*    text-decoration: none;*/
+/*    color: #212529; !* Text color for navigation links *!*/
+/*    font-weight: bold;*/
+/*}*/
+
+/*.nav a:hover {*/
+/*    color: #007bff; !* Text color for navigation links on hover *!*/
+/*}*/
+
+/*!* src/components/Header.css *!*/
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav {
+    display: flex;
+    gap: 20px;
+}
+
+.nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}

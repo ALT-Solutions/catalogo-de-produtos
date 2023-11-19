@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Product 1",
+    "description": "Description of Product 1.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Suplementos",
+    "image": "creatina.jpg",
+    "cupom": "ACMUNDOFIT"
+  },
+  {
+    "name": "Product 2",
+    "description": "Description of Product 2.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Alimentos",
+    "image": "creatina.jpg",
+    "cupom": "ACMUNDOFIT"
+  },
+  {
+    "name": "Product 3",
+    "description": "Description of Product 3.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Carbo",
+    "image": "creatina.jpg"
+  },
+  {
+    "name": "Product 4",
+    "description": "Description of Product 4.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Roupas",
+    "image": "creatina.jpg"
+  },
+  {
+    "name": "Product 5",
+    "description": "Description of Product 1.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Suplementos",
+    "image": "creatina.jpg"
+  },
+  {
+    "name": "Product 6",
+    "description": "Description of Product 2.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Alimentos",
+    "image": "creatina.jpg"
+  },
+  {
+    "name": "Product 7",
+    "description": "Description of Product 3.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Carbo",
+    "image": "creatina.jpg"
+  },
+  {
+    "name": "Product 8",
+    "description": "Description of Product 4.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Roupas",
+    "image": "creatina.jpg"
+  },
+  {
+    "name": "Product 9",
+    "description": "Description of Product 1.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Suplementos",
+    "image": "creatina.jpg"
+  },
+  {
+    "name": "Product 10",
+    "description": "Description of Product 2.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Alimentos",
+    "image": "creatina.jpg"
+  },
+  {
+    "name": "Product 11",
+    "description": "Description of Product 3.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Carbo",
+    "image": "creatina.jpg"
+  },
+  {
+    "name": "Product 12",
+    "description": "Description of Product 4.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Roupas",
+    "image": "creatina.jpg"
+  },
+  {
+    "name": "Product 13",
+    "description": "Description of Product 1.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Suplementos",
+    "image": "creatina.jpg"
+  },
+  {
+    "name": "Product 14",
+    "description": "Description of Product 2.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Alimentos",
+    "image": "creatina.jpg"
+  },
+  {
+    "name": "Product 15",
+    "description": "Description of Product 3.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Carbo",
+    "image": "creatina.jpg"
+  },
+  {
+    "name": "Product 16",
+    "description": "Description of Product 4.",
+    "affiliateLink": "https://example.com/product1",
+    "category": "Roupas",
+    "image": "creatina.jpg"
+  }
+]

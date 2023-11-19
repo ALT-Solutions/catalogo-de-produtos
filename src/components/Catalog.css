@@ -1,0 +1,6 @@
+/* src/components/Catalog.css */
+.catalog {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; /* Distribute items evenly along the main axis */
+}

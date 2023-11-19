@@ -1,116 +1,42 @@
 [
   {
-    "name": "Product 1",
-    "description": "Description of Product 1.",
-    "affiliateLink": "https://example.com/product1",
+    "name": "CREATOR - CREATINA MONOHIDRATADA - 300G",
+    "description": "Formulado com Creatina 100% monohidratada e hidrolisada na forma de nanopartículas. Cada dose fornece 3000mg de creatina.",
+    "affiliateLink": "https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p?skuId=67",
     "category": "Suplementos",
-    "image": "creatina.jpg",
+    "image": "images/1.jpg",
     "cupom": "ACMUNDOFIT"
   },
   {
-    "name": "Product 2",
-    "description": "Description of Product 2.",
-    "affiliateLink": "https://example.com/product1",
-    "category": "Alimentos",
-    "image": "creatina.jpg",
+    "name": "CREATINE - CREATINA MONOHIDRATADA - 300G",
+    "description": "100% Creatina Monohidratada entregando 3000mg por dose.",
+    "affiliateLink": "https://www.blackskullusa.com.br/creatine--creatina-monohidratada--300g/p?skuId=62",
+    "category": "Suplementos",
+    "image": "images/2.jpg",
     "cupom": "ACMUNDOFIT"
   },
   {
-    "name": "Product 3",
-    "description": "Description of Product 3.",
-    "affiliateLink": "https://example.com/product1",
-    "category": "Carbo",
-    "image": "creatina.jpg"
-  },
-  {
-    "name": "Product 4",
-    "description": "Description of Product 4.",
-    "affiliateLink": "https://example.com/product1",
-    "category": "Roupas",
-    "image": "creatina.jpg"
-  },
-  {
-    "name": "Product 5",
-    "description": "Description of Product 1.",
-    "affiliateLink": "https://example.com/product1",
+    "name": "CREATINE TURBO - 300G",
+    "description": "BEST SELLER composto por creatina monohidratada e maltodextrina entregando 3000mg de creatina e 3g de maltodextrina por dose.",
+    "affiliateLink": "https://www.blackskullusa.com.br/creatine-turbo--300g/p?skuId=64",
     "category": "Suplementos",
-    "image": "creatina.jpg"
+    "image": "images/3.jpg",
+    "cupom": "ACMUNDOFIT"
   },
   {
-    "name": "Product 6",
-    "description": "Description of Product 2.",
-    "affiliateLink": "https://example.com/product1",
-    "category": "Alimentos",
-    "image": "creatina.jpg"
-  },
-  {
-    "name": "Product 7",
-    "description": "Description of Product 3.",
-    "affiliateLink": "https://example.com/product1",
-    "category": "Carbo",
-    "image": "creatina.jpg"
-  },
-  {
-    "name": "Product 8",
-    "description": "Description of Product 4.",
-    "affiliateLink": "https://example.com/product1",
-    "category": "Roupas",
-    "image": "creatina.jpg"
-  },
-  {
-    "name": "Product 9",
-    "description": "Description of Product 1.",
-    "affiliateLink": "https://example.com/product1",
+    "name": "WHEY PROTEIN CONCENTRADO 80% HD - CAVEIRA PRETA",
+    "description": "Whey protein concentrado 80%",
+    "affiliateLink": "https://www.blackskullusa.com.br/whey-80-hd-caveira-preta/p?skuId=559",
     "category": "Suplementos",
-    "image": "creatina.jpg"
+    "image": "images/4.jpg",
+    "cupom": "ACMUNDOFIT"
   },
   {
-    "name": "Product 10",
-    "description": "Description of Product 2.",
-    "affiliateLink": "https://example.com/product1",
-    "category": "Alimentos",
-    "image": "creatina.jpg"
-  },
-  {
-    "name": "Product 11",
-    "description": "Description of Product 3.",
-    "affiliateLink": "https://example.com/product1",
-    "category": "Carbo",
-    "image": "creatina.jpg"
-  },
-  {
-    "name": "Product 12",
-    "description": "Description of Product 4.",
-    "affiliateLink": "https://example.com/product1",
-    "category": "Roupas",
-    "image": "creatina.jpg"
-  },
-  {
-    "name": "Product 13",
-    "description": "Description of Product 1.",
-    "affiliateLink": "https://example.com/product1",
-    "category": "Suplementos",
-    "image": "creatina.jpg"
-  },
-  {
-    "name": "Product 14",
-    "description": "Description of Product 2.",
-    "affiliateLink": "https://example.com/product1",
-    "category": "Alimentos",
-    "image": "creatina.jpg"
-  },
-  {
-    "name": "Product 15",
-    "description": "Description of Product 3.",
-    "affiliateLink": "https://example.com/product1",
-    "category": "Carbo",
-    "image": "creatina.jpg"
-  },
-  {
-    "name": "Product 16",
-    "description": "Description of Product 4.",
-    "affiliateLink": "https://example.com/product1",
-    "category": "Roupas",
-    "image": "creatina.jpg"
+  "name": "CAMISETA BLACK SKULL DRY FIT SOLDADO BOPE BRANCA",
+  "description": "CAMISETA BLACK SKULL DRY FIT SOLDADO BOPE BRANCA",
+  "affiliateLink": "https://www.blackskullusa.com.br/camiseta-black-skull-dry-fit-soldado-bope-branca/p?skuId=457",
+  "category": "Roupas",
+  "image": "images/5.jpg"
   }
+
 ]
